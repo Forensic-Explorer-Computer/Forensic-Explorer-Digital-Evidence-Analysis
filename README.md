@@ -16,10 +16,6 @@
 
 **Forensic Explorer Professional** (FEX Pro) is a comprehensive digital forensics and incident response software application designed for cybersecurity professionals, law enforcement agencies, and corporate investigators. It provides an integrated environment to acquire, analyze, and report on digital evidence from a wide variety of data sources, including hard drives, smartphones, cloud storage, and memory dumps. The software enables experts to perform deep data analysis, recover deleted files, parse complex registry structures, and create court-admissible reports with ease. Its user-friendly interface combined with powerful analytical engines makes it an indispensable tool for modern digital forensics workflows, ensuring that no piece of evidence is overlooked during a critical investigation.
 
-<p align="center">
-  <img src="https://www.getdata.com/media/wysiwyg/forensic-explorer-fex-1.jpg" alt="Forensic Explorer Professional Interface"/>
-</p>
-
 ---
 
 ## 🎛 Key Features
